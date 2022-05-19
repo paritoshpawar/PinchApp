@@ -25,3 +25,10 @@ With over 3200 icons, SF Symbols is a library of iconography designed to integra
 
 
 **App Screens:**
+
+![alt text](https://github.com/paritoshpawar/PinchApp/blob/main/App-ScreenShot/View2.png)
+
+
+![alt text](https://github.com/paritoshpawar/PinchApp/blob/main/App-ScreenShot/View1.png)
+
+
